@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.6.0](https://github.com/onecli/onecli/compare/v1.5.5...v1.6.0) (2026-03-24)
+
+
+### Features
+
+* add account layer for multi-tenant workspace scoping ([#98](https://github.com/onecli/onecli/issues/98)) ([4057a3f](https://github.com/onecli/onecli/commit/4057a3f899baa544004fbeba7ff485e1ed421877))
+
 ## [1.5.5](https://github.com/onecli/onecli/compare/v1.5.4...v1.5.5) (2026-03-24)
 
 
